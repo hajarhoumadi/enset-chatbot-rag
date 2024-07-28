@@ -1,7 +1,15 @@
-<center><h3 style="color:Tomato;">Compte rendu</h3></center>
-<h5>1- .</h5>
+<center><h3 style="color:red; font-weight:900;">Compte rendu</h3></center>
+
+<center><h3 style="color:black; font-weight:bold;">L'application est divisée en deux parties principales :</h3></center>
+<h5>- Backend :</h5>
+<h5>*Intégration avec les modèles Llama3 et OpenAI pour le traitement du langage naturel.</h5>
+<h5>*Utilisation de pgvector pour la sauvegarde de store dans une base de données PostgreSQL.</h5>
+<h5>- Frontend :</h5>
+<h5>*Utilisation de React pour construire une interface utilisateur réactive et moderne.</h5>
+<h5>*Utilisation de VAADIN pour les composants d'interface utilisateur.</h5>
+<h5>1- Installation de ollama avec la commande ollama run.</h5>
 <img width="376" alt="1" src="https://github.com/user-attachments/assets/b71f5fe5-7435-4a5d-863c-ffa973645363">
-<h5>2- .</h5>
+<h5>2- Installation complétée avec succès.</h5>
 <img width="378" alt="2" src="https://github.com/user-attachments/assets/3628c5af-c79e-4a6d-9ff7-f33b15ae8977">
 <h5>3- .</h5>
 <img width="854" alt="3 H" src="https://github.com/user-attachments/assets/87389bbe-1798-4b98-acf2-fb916fce36ea">
